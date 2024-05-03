@@ -4,7 +4,7 @@ Hello and welcome to my blog. This was designed as part of a course I am doing a
 
 This blog will just be a short collection of some interesting thoughts I've had whilst doing this assignment so please enjoy.
 
-![Image of fast.ai logo](images/logo.png)
+![Image of fast.ai logo](images/logo_darkmode.png)
 <img src="https://raw.githubusercontent.com/dapmiller/dapmiller.github.io/master/images/DAN_2.jpg" alt="Description" width="200">
 
 
